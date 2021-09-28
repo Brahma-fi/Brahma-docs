@@ -1,0 +1,29 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs.sections
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: blue grey
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: red
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Brahma-fi
+nav:
+  - "index.md"
+  - "🤓 Research.md"
+  - "Glossary.md"
+  - "FAQ.md"

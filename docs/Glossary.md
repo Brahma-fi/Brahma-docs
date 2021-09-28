@@ -1,0 +1,11 @@
+---
+
+| Term          | Description                                                                                                                                                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User          | Anyone who is interacting with Brahma protocol's product.                                                                                                                                                                                         |
+| LP            | LP's refer to Liquidity provisioning in order to generate rewards. Anyone depositing Liquidity in a pool can do so by supplying crypto assets. These assets are in-turn used by a protocol to lend, trade, mint etc and generate yield in return. |
+| UNI V3        | UNI V3 refers to the Uniswap's version 3 upgrade. More details can be found here                                                                                                                                                                  |
+| Strategy      | Refer to smart contract strategies to generate yield or hedge capital. The Strategies are implemented by the Brahma vaults to autonomously manage capital.                                                                                        |
+| AASTRA        | An Aastra (Sanskrit: अस्त्र) was a supernatural weapon and also the first set of products launched under Brahma.                                                                                                                                  |
+| BRAHMA        | (Sanskrit: ब्रह्मा, romanized: _Brahmā_) Means the creator of the universe. Brahma is the first god in the Hindu triumvirate. The triumvirate consists of three gods who are responsible for **the creation**.                                    |
+| AASTRA-ETHPUT | ERC-20 token issued by the AASTRA. It represents the share the user has in the vault and minted when supplied with USDC.                                                                                                                          |
