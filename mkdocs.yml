@@ -1,8 +1,9 @@
 site_name: Brahma Docs
 theme:
   name: material
+  logo: images/logo.png
   features:
-    - navigation.tabs.sections
+    - navigation.sections
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: blue grey
@@ -40,3 +41,7 @@ nav:
       - "Governance and fund Control": "GovernanceAndFundControl.md"
   - Security:
       - "Self Audit": "SelfAudit.md"
+      - "Test Approach and Methodology": "TestApproachAndMethodology.md"
+      - "Contract Breakdown and Review": "ContractBreakdown.md"
+      - "Research on similar protocol vulnerabilities": "ResearchOnSimilarProtocols.md"
+      - "Security Reports for our Contracts": "SecurityReports.md"
