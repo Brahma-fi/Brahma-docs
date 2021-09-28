@@ -12,7 +12,12 @@ The following vulnerability assessment is limited to the scope of following cont
 
 ## **Vault.sol**
 
-The following contract controls the access of funds deposited by users who are depositing for earning liquidity fees on Uniswap v3. It has a function that involves depositing funds in Uniswap v3 for LP'ing. Claim fees from Uniswap for corresponding LP position. Swapping assets from one token to another token on Uniswap. Issuance/claim of erc20 tokens indicative of share the user holds. Movement of funds across different tick ranges of Uniswap v3 pool.
+The following contract controls the access of funds deposited by users who are depositing for earning liquidity fees on Uniswap v3. It has a function that involves:
+- Depositing funds in Uniswap v3 for LP'ing 
+- Claim fees from Uniswap for corresponding LP position 
+- Swapping assets from one token to another token on Uniswap
+- Issuance/claim of erc20 tokens indicative of share the user holds
+- Movement of funds across different tick ranges of Uniswap v3 pool.
 
 [Issues of Vault.sol](https://www.notion.so/0d35e76cbe5d40f6ab928d5e56d526e2)
 
