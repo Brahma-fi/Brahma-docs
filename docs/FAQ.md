@@ -13,7 +13,7 @@ The first instrument that went live on Aastra is AASTRA-ETHPUT. It creates a syn
 
 ## **How does Aastra work?**
 
-> [➡️ User Guide](./userguide.md)
+> [➡️ User Guide](./AastraUserGuide.md)
 
 A user deposits USDC to the instrument and our autonomous contracts execute the trades (selecting the range order, strike price and rebalance dates) as per our research.
 
