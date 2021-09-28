@@ -1,6 +1,6 @@
 ---
 
-![architecture](./images/architecture.jpeg)
+![architecture](./images/architecture.png)
 
 Each vault that gets deployed by us is assigned a strategy manager. Most functionalities dealing with managing funds on the vault are restricted only to the Router contract.‌
 
