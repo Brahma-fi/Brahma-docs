@@ -7,18 +7,8 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    - media: "(prefers-color-scheme: light)"
-      primary: blue grey
+    - primary: blue grey
       scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      primary: red
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
 plugins:
   - search
 extra:
