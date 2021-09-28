@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Brahma Docs
 theme:
   name: material
   features:
@@ -24,6 +24,19 @@ extra:
       link: https://github.com/Brahma-fi
 nav:
   - "index.md"
-  - "🤓 Research.md"
+  - "🤓 Research": "Research.md"
   - "Glossary.md"
   - "FAQ.md"
+  - Products:
+      - Aastra:
+          - About: "Aastra.md"
+          - "Aastra ETH-PUT": "AastraEthput.md"
+          - "User Guide": "AastraUserGuide.md"
+  - Developers:
+      - "Deployed Contracts": "DeployedContracts.md"
+      - "Architecture.md"
+  - Governance:
+      - "Brahma DAO": "BrahmaDAO.md"
+      - "Governance and fund Control": "GovernanceAndFundControl.md"
+  - Security:
+      - "Self Audit": "SelfAudit.md"
