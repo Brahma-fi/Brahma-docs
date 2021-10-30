@@ -14,6 +14,6 @@ Popsicle finance had a functionality in their vaults where users could withdraw 
 
 ### **Our Approach**
 
-- Starting from the deployment of our first vaults, we are using a gnosis multi-sig shared across ...... for the governance account of protocol. This reduce any individual malicious attacker from accessing the governance account.
+- Starting from the deployment of our first vaults, we are using a [gnosis multi-sig](https://etherscan.io/address/0x6b29610D6c6a9E47812bE40F1335918bd63321bf) for the governance account of protocol. This reduce any individual malicious attacker from accessing the governance account.
 
 - The current architecture of Aastra vaults doesn't give users direct access to the fees earned from their lp position. Instead user's can access funds that are invested in lp position or lying ideal in vault. This prevents the need to maintain state of fees so when lp tokens are transferred their is no change in state. And if there is a `withDraw` call made shares are burned mitigating the issue of double spend to happen in first place.
