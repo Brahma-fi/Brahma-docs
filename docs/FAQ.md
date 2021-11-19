@@ -19,7 +19,7 @@ A user deposits USDC to the instrument and our autonomous contracts execute the 
 
 ## **Are you audited?**
 
-No, we are not audited yet. We have performed an extensive self audit on our contracts, which you can see in our audit report [here](https://brahma-fi.github.io/Brahma-docs/SelfAudit/).
+No, we are not audited yet. We have performed an extensive self audit on our contracts, which you can see in our audit report [here](https://docs.brahma.fi/SelfAudit/).
 
 ## **Is there any risk?**
 
